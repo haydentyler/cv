@@ -1,0 +1,48 @@
+
+  body {
+    background-color: #171717;
+
+  }
+  hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 5%;
+    border-width: 5px;
+    border-color: #DA0037;
+  }
+  h1 {
+    color: #EDEDED;
+    font-family: sans-serif;
+
+  }
+  h3{
+    color: #EDEDED;
+    font-family: sans-serif;
+  }
+  p{
+    color: white;
+    font-family: sans-serif;
+
+  }
+  li{
+    color: white;
+    font-family: sans-serif;
+  }
+  td{
+    color: white;
+    font-family: sans-serif;
+
+  }
+  thead{
+    color : grey;
+    font-family: sans-serif;
+  }
+  label{
+    color: white;
+    font-family: sans-serif;
+  }
+  img{
+    border: 5px solid #DA0037;
+  }
